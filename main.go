@@ -13,6 +13,10 @@ import (
 	"github.com/sirupsen/logrus"
 )
 
+const (
+	SeqNum = 0
+)
+
 var (
 	hturl = url.URL{
 		Scheme: "https",
@@ -26,7 +30,7 @@ type StringField struct {
 }
 
 type IntField struct {
-	IntValue string `json:"intValue,omitempty"`
+	IntegerValue string `json:"integerValue,omitempty"`
 }
 
 type Value struct {
@@ -50,6 +54,20 @@ type ArrayField struct {
 	} `json:"arrayValue,omitempty"`
 }
 
+type MapField struct {
+	MapValue struct {
+		Fields struct {
+			ConferenceID IntField    `json:"conference_id,omitempty"`
+			Conference   StringField `json:"conference,omitempty"`
+			UpdatedAt    StringField `json:"updated_at,omitempty"`
+			UpdatedTsz   StringField `json:"updated_tsz,omitempty"`
+			Color        StringField `json:"color,omitempty"`
+			Name         StringField `json:"name,omitempty"`
+			ID           IntField    `json:"id,omitempty"`
+		} `json:"fields,omitempty"`
+	} `json:"mapValue,omitempty"`
+}
+
 type Item struct {
 	Document struct {
 		Name   string `json:"name"`
@@ -60,7 +78,7 @@ type Item struct {
 			Title            StringField `json:"title,omitempty"`
 			Description      StringField `json:"description,omitempty"`
 			Media            ArrayField  `json:"media,omitempty"`
-			Type             interface{} `json:"type,omitempty"`
+			Type             MapField    `json:"type,omitempty"`
 			BeginTsz         StringField `json:"begin_tsz,omitempty"`
 			EndTsz           StringField `json:"end_tsz,omitempty"`
 			BeginTimestamp   StringField `json:"begin_timestamp,omitempty"`
@@ -123,12 +141,12 @@ func main() {
 	}
 	ics := fmt.Sprintf(`BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//moca/camp/schedule v1.0//EN
+PRODID:-//moca/camp/schedule v1.0//IT
 VTIMEZONE: Europe/Rome
 `)
 
 	for _, item := range items {
-		eventUID := item.Document.Name
+		eventUID := item.Document.Fields.Type.MapValue.Fields.ID.IntegerValue
 		location := item.Document.Fields.Location.MapValue.Fields.Name.StringValue
 		speakerNames := make([]string, 0, len(item.Document.Fields.Speakers.ArrayValue.Values))
 		for _, v := range item.Document.Fields.Speakers.ArrayValue.Values {
@@ -143,7 +161,6 @@ VTIMEZONE: Europe/Rome
 		if len(speakerNames) > 0 {
 			speakers = strings.Join(speakerNames, ", ")
 		}
-		speakerEmail := "unknown"
 		start, err := time.Parse("2006-01-02T15:04:05Z", item.Document.Fields.BeginTsz.StringValue)
 		if err != nil {
 			logrus.Fatalf("Failed to parse start time %q: %v", item.Document.Fields.BeginTsz.StringValue, err)
@@ -158,7 +175,8 @@ VTIMEZONE: Europe/Rome
 		description = strings.Replace(description, "\r", "", -1)
 		ics += fmt.Sprintf(`BEGIN:VEVENT
 UID:%s
-ORGANIZER;CN=%s:MAILTO:%s
+SEQUENCE: %d
+ORGANIZER;CN=%s:MAILTO:info@olografix.org
 DTSTAMP:20240912T140000Z
 DTSTART:%s
 DTEND:%s
@@ -169,8 +187,8 @@ LOCATION: %s
 END:VEVENT
 `,
 			eventUID,
+			SeqNum,
 			speakers,
-			speakerEmail,
 			start.Format("20060102T150405Z"),
 			end.Format("20060102T150405Z"),
 			summary,
