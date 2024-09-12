@@ -1,4 +1,4 @@
-module git.cicciogatto.lol/insomniac/moca-ics
+module github.com/metro-olografix/moca24-ics
 
 go 1.22.6
 
