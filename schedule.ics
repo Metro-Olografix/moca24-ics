@@ -1,0 +1,1062 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//moca/camp/schedule v1.0//IT
+VTIMEZONE: Europe/Rome
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Metro Olografix:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240915T130000Z
+DTEND:20240915T140000Z
+SUMMARY:Closing ceremony
+DESCRIPTION: 
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Luca Mercatanti:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240915T110000Z
+DTEND:20240915T113000Z
+SUMMARY:Digital Forensics ed investigazioni digitali
+DESCRIPTION: Nel corso della presentazione, esploreremo l'universo della serie TV C.S.I. e come le tecnologie moderne, dai computer agli smartphone, fino alle auto e ai droni, possano rivelare una quantità sorprendente di informazioni su eventi passati. Impareremo come raccogliere e presentare in modo efficace i dati informatici (spoiler: uno screenshot non basta!), esaminando il processo di sequestro e analisi dei dispositivi e scoprendo quali dati vengono memorizzati inconsapevolmente in ogni momento della nostra vita. Analizzeremo alcuni casi reali e discuteremo le potenzialità dell'intelligenza artificiale nel campo dell'investigazione digitale.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=fabio carletti aka Ryuw:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240915T110000Z
+DTEND:20240915T113000Z
+SUMMARY:Zap Attack – web app open source scanner
+DESCRIPTION: Il testing dei sistemi informatici è sempre più importante, ZAP Attack Proxy è uno strumento open source e libero per i ricercatori e cyber security specialist. La mission del progetto è focalizzata nelle web app e portali web tramite tecniche di attacco a più livelli. La sezione Plug-in del marketplace ampliano le possibilità di operare in modo trasversale.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Marco Pagliaricci:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240915T101500Z
+DTEND:20240915T110000Z
+SUMMARY:Come Rust mi ha aiutato a sviluppare un keystore programmabile, veloce e sicuro
+DESCRIPTION: Eseguire codice in luoghi sensibili è spesso necessario, ma oggi la sicurezza è fondamentale. Ultimamente abbiamo visto come tecnologie incredibili come WebAssembly e eBPF stiano guadagnando molta popolarità perché consentono di eseguire codice in modo sicuro in luoghi molto sensibili come un browser client o il kernel di Linux. Possiamo avere altri strumenti in questo campo? Possiamo avere una generica macchina virtuale multiuso scritta in Rust, che possa essere incorporata in molti luoghi sensibili, che esegua codice sicuro e non debba preoccuparsi di crash o loop infiniti? Ho cercato di rispondere a questa domanda scrivendo un keystore programmabile in Rust, che agisce come una cache molto veloce, memorizza i dati in memoria, ma può anche essere programmato in un linguaggio di interrogazione molto particolare che ho inventato. È emerso che questo linguaggio può essere utilizzato per molti scopi, non solo per un'applicazione di keystore!
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Leonardo Tamiano:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240915T101500Z
+DTEND:20240915T110000Z
+SUMMARY:How to Teach Complex Ideas
+DESCRIPTION: Nel 1998 Daniel Bleichenbacher scopre che l'utilizzo di RSA combinato con lo schema di padding PKCS#1v1.5 all'interno del protocollo SSLv3 può portare a scenari vulnerabili in cui è possibile forzare la decifratura dei messaggi cifrati con la chiave pubblica del server. L'attacco viene pubblicato e si propone un fix per la successiva versione del protocollo, il TLSv1. Si scoprirà solo in futuro che quel fix non bastava. Col passare degli anni, ad intervalli regolari, varie versioni dell'attacco vengono riscoperte. Si propongono ulteriori fix e raccomandazioni, fino ad arrivare all'ultima versione del protocollo, il TLSv1.3, in cui è stata tolta del tutto la possibilità di utilizzare RSA per proteggere lo scambio delle chiavi. Le conoscenze richieste per comprendere l'attacco in questione intersecano varie aree di interesse, tra cui la matematica, l'informatica e la crittografia. Tale attacco rappresenta dunque un ottimo scenario per analizzare come strutturare un argomento complesso in modo da aiutare il più possibile la misteriosa attività dell'insegnamento. L'obiettivo del contributo infatti è analizzare, prendendo come esempio concreto l'attacco scoperto da Bleichenbacher, quali sono le caratteristiche fondamentali che una lezione deve avere per essere considerata utile e significativa nel contesto informatico.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Lorenzo Dina:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240915T094500Z
+DTEND:20240915T101500Z
+SUMMARY:"Il buono, il brutto, il cattivo" della cybersecurity
+DESCRIPTION: Una retrospettiva critica delle lezioni apprese 20 anni fa, confrontate con le evoluzioni tecnologiche odierne e le prospettive future. Un viaggio semi-serio tra passato, presente e futuro della sicurezza informatica.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Donato De Meo:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240915T094500Z
+DTEND:20240915T101500Z
+SUMMARY:Reti ieri oggi e domani
+DESCRIPTION: Evoluzione di una rete, come sono cambiate le reti in questi anni e come diventeranno.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Mircha Emanuel `ryuujin` D'Angelo:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240915T090000Z
+DTEND:20240915T094500Z
+SUMMARY:Sviluppo Rapido di applicazioni con Laravel e Filament
+DESCRIPTION: Vi guiderò in un piccolo viaggio per mostrarvi come accelerare lo sviluppo di applicazioni con Laravel e Filament. Esploreremo come Filament, con la sua potente interfaccia amministrativa, si integra perfettamente con Laravel, permettendo di costruire applicazioni complesse in modo semplice e rapido. Attraverso esempi pratici e best practice, dimostreremo come queste tecnologie possono ridurre i tempi di sviluppo e migliorare la produttività.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Alessio L.R. Pennasilico aka -=mayhem=-:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240915T090000Z
+DTEND:20240915T094500Z
+SUMMARY:L'approccio Hacker al ruolo della cyber security nell'ESG
+DESCRIPTION: Si scrive ESG ma tutti leggono carbon footprint ed inclusione. Indispensabili, ci mancherebbe. Ma non bastano. ESG significa organizzarsi per fare bene le cose, riducendo i rischi per tutti. Ecco quindi che cyber, in generale, diventa strumento indispensabile per garantire a tutti i propri stakeholder (dal consumatore finale a tutta la filiera coinvolta) che i propri servizi sono affidabili e sicuri, ai propri fornitori che il business è solido e verranno pagate le fatture, agli investitori che le azioni non crolleranno, etc. Ma pensando a tutto il mondo OT/IoT , significa macchinari che non feriscono le persone o che a causa di un attacco o malfunzionamento non inquinano. La mentalità hacker di voler ottimizzare tutto, voler avere prodotti e servizi perfetti, nella massima tutela di tutti i soggetti coinvolti, svolge un ruolo fondamentale.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Danilo Spinella:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240915T083000Z
+DTEND:20240915T090000Z
+SUMMARY:Boot process for modern Linux
+DESCRIPTION: In the latest iterations of Linux, many features have been added regarding the Boot Process, including a new standard called BLS with support in GRUB2 and systemd-boot, Full Disk Encryption using TPM, and having the entire boot process signed, ensuring system integrity.\n\nAnother interesting feature is soft-reboot, which is the ability to reboot the entire userspace, without rebooting the hardware or reloading the kernel like kexec does. In this talk we will talk about these features, and why the major actors are collaborating on them.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Valerio Lupi, Gabriele Zuddas:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240915T083000Z
+DTEND:20240915T090000Z
+SUMMARY:gULP: A Versatile Log Processing Tool for digital forensics, incident response and threat hunting
+DESCRIPTION: This presentation aims to introduce our new open source project: gULP.\nDeveloped by Mentat, gULP is a cutting-edge tool designed to improve incident response and analysis through simplified log processing.\n\nSome of gULP’s key features include:\n\n- a high-speed multi-processing engine that supports fast ingestion and querying.\n\n- a versatile Python plugin system that supports multiple sources.\n\n- query using custom filters, Opensearch DSL and Sigma Rules.\n\n- full scalability support leveraging OpenSearch and PostgreSQL.\n\n- “collaborative workflows” (aka play co-op with friends)\n\n- an innovative UI which allows for quick recognition of attack patterns and data analysis from multiple sources at the same time, overcoming limitations of existing products.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Ettore Di Giacinto (mudler):MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240915T074500Z
+DTEND:20240915T083000Z
+SUMMARY:LocalAI: The Open Source alternative to OpenAI, Anthropic, ...
+DESCRIPTION: Il talk esplora come LocalAI offra un'alternativa Open Source, totalmente gestibile in locale, a servizi di intelligenza artificiale chiusi e proprietari come OpenAI e Claude. In un contesto dove la privacy è sempre più fondamentale, e dove processare dati sensibili è importante, LocalAI si pone come soluzione completamente libera che funziona su qualsiasi hardware. LocalAI supporta l'esecuzione offline senza hardware costoso ed è anche completamente compatibile con le API di OpenAI, permettendo una transizione semplice per gli sviluppatori. Discuteremo l'architettura di LocalAI, le sue capacità di generazione di testo, distribuzione del workload, sintesi vocale e trascrizione audio, e come costruire assistenti personalizzati, anche con hardware di basso costo.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Paolo Ottolino:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240915T074500Z
+DTEND:20240915T083000Z
+SUMMARY:Design Shutters: reusable security objects
+DESCRIPTION: Fibonacci + Exploiting + Risk + Protection + Development "agitati non mescolati" = framework combinatorio per DevSecOps. "Design Shutters: reusable security objects" propone un modello operativo per il DevSecOps. Nasce per organizzare i contenuti del corso "Secure Programming Laboratory", tenuto al Politecnico di Bari nell’AA 2023-2024, ispirandosi a “Design Patterns: Elements of Reusable Object-Oriented Software”. Design Shutters fornisce un modo per raggruppare ed ordinare i 21 elementi necessari a garantire la protezione completa del SW, tramite un framework di 21 oggetti di sicurezza riutilizzabili: - mappato con le 8 fasi DevOps e, quindi, l’intero Application LifeCycle. - gestito con il ciclo di Shewhart (Deming) - fornendo indicatori operativi di governance.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46917
+SEQUENCE: 0
+ORGANIZER;CN=Giacomo 'Jackaless' Alessandroni:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240915T073000Z
+DTEND:20240915T081500Z
+SUMMARY:Non te lo dico. Crittografia per ragazzi
+DESCRIPTION: I cifrari di Cesare e di Vigenère sono un’eccellente palestra per chi vuole scoprire le basi della crittografia e crittoanalisi, senza l’ausilio del computer. Verranno illustrate esperienze didattiche svolte con successo con fanciulli di scuola primaria, sotto due profili: scrivere un messaggio che possa superare gli sguardi indiscreti dei genitori; decodificare un messaggio in codice, scritto da un compagno. Con la metamorfosi da lezione a sfida (e opportunità), mentre gli studenti apprendono le tecniche di base della crittografia, l’attività si trasforma in un pretesto per sfatare falsi miti: da "io non ho niente da nascondere" fino a "tanto i miei dati li hanno già", creando un ponte tra informatica ed educazione civica, per niente scontato.
+GEO:42.5816338;14.0901461
+LOCATION: FreeKevin
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Andrea Monti:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T191500Z
+DTEND:20240914T200000Z
+SUMMARY:Cenere, macerie e ipocrisia dell'attivismo digitale
+DESCRIPTION: Che fine ha fatto l'attivismo digitale (posto che lo si possa chiamare così?) Dall'epoca d'oro di Metro Olografix, cyberpunk.ita, Cybernet, Strano Network, Freaknet, Shake edizioni, Forte Prenestino, Joe Lametta, A/I, Alcei fino alla feticizzazione dei diritti, alle parole d'ordine e alla ricerca del integrazione istituzionale, l'attivismo digitale. Come è nato cresciuto male e finito peggio l'attivismo digitale italiano.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=John Doe:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T191500Z
+DTEND:20240914T194500Z
+SUMMARY:SATCOM/MILSAT Hacking
+DESCRIPTION: In orbita geostazionaria ci sono diversi satelliti militari ed alcuni di questi sono ormai usati più spesso da pirati che dai legittimi utenti. Uniamoci ai pirati ascoltando e provando a trasmettere a questi satelliti ascoltando il nostro segnale che torna giù sulla terra con l’affascinante ritardo di circa mezzo secondo.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Metro Olografix:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T190000Z
+DTEND:20240914T191500Z
+SUMMARY:Premiazione CTF
+DESCRIPTION: 
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46937
+SEQUENCE: 0
+ORGANIZER;CN=Metro Olografix:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T190000Z
+DTEND:20240914T203000Z
+SUMMARY:Dungeons&Dragons
+DESCRIPTION: 
+GEO:42.5816338;14.0901461
+LOCATION: FreeKevin
+END:VEVENT
+BEGIN:VEVENT
+UID:46983
+SEQUENCE: 0
+ORGANIZER;CN=Stem@it:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T180000Z
+DTEND:20240914T190000Z
+SUMMARY:Programmazione per il Mondo del Metaverso
+DESCRIPTION: Cosa si farà:\n - Utilizza Cospace, un software adatto ai bambini, per creare e esplorare mondi 3D. Immergiti nel metaverso e dai vita alla tua immaginazione.\n - Indossa un visore Oculus Quest 2 VR ed esplora mondi virtuali. Visita spiagge tropicali, oceani sottomarini e persino lo spazio in un'esperienza immersiva.
+GEO:42.5816338;14.0901461
+LOCATION: MOKids
+END:VEVENT
+BEGIN:VEVENT
+UID:46917
+SEQUENCE: 0
+ORGANIZER;CN=Alessandro Tanasi:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T173000Z
+DTEND:20240914T181500Z
+SUMMARY:CodeQL as your hunting bro
+DESCRIPTION: CodeQL è uno strumento avanzato per l'analisi statica del codice, utilizzato per identificare vulnerabilità e migliorare la sicurezza del software. In questo talk, esploreremo le potenzialità di CodeQL, illustrando come consente ai team di sviluppo e ai bug hunter di scrivere query personalizzate in un linguaggio simile a SQL per analizzare il codice sorgente.\nComprenderemo come utilizzarlo per attività di bug hunting e vulnerability research.
+GEO:42.5816338;14.0901461
+LOCATION: FreeKevin
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=vecna:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T171500Z
+DTEND:20240914T180000Z
+SUMMARY:Hacking e diritti digitali: come rivoluzionare il discorso pubblico e avere impatto reale
+DESCRIPTION: I diritti digitali rappresentano un importante campo di lotta che vale la pena conoscere, dove il pensiero multidisciplinare e l'hacking possono eccellere. È anche un mercato interessante e un campo geopolitico, in cui numerosi attori pubblici e privati si contendono spazio e potere, anche finanziando del software libero. Dalla crittografia alla data retention, dal web scraping al reverse engineering e, naturalmente, alla buzzword di questo decennio, l'IA: parleremo di come questi temi siano spesso maltrattati dalle regolamentazioni e distorti dal lobbismo, ma anche di come l'hacking o comunque una padronanza della tecnologia possano portare un punto di vista fondamentale che può rivoluzionare il discorso e creare cambiamento nella società. Un esempio parte proprio da qui: 8 anni fa, iniziò il progetto Tracking Exposed. È durato per 7 anni, partendo da un concept scritto proprio per il MOCA, è arrivato nell'accademia, in istituzioni europee, internazionali. il talk sarà l'occasione per dimostrare come qualcosa nato dall'hacking italiano abbia contribuito al discorso sui diritti digitali, all'intersezione tra mercato, politica, giurisprudenza e tecnologia. La comunità hacker ha il potere di essere attore fondamentale per modellare le lotte per i diritti digitali, e avere impatto: ecco come si può fare.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Giovanni merlos Mellini:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T171500Z
+DTEND:20240914T180000Z
+SUMMARY:My journey into cloud security
+DESCRIPTION: Con questo talk merlos vi guiderà attraverso le difficoltà e le sfide che ha già affrontato / sta affrontando / affronterà approcciando la sicurezza in un contesto full cloud.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Marco Melletti, Matteo Martelli:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T164500Z
+DTEND:20240914T171500Z
+SUMMARY:Sonic Visions: transforming landscapes into soundscapes
+DESCRIPTION: Sonic Vision è un innovativo programma open-source progettato per gli artisti visivi, che consente di generare musica in tempo reale attraverso l'analisi delle immagini. Integrato come plugin per Krita, uno dei più diffusi programmi di disegno digitale, Sonic Vision interpreta le informazioni cromatiche e posizionali dell'immagine originale come eventi musicali. Questi eventi vengono poi resi in formato MIDI e possono essere inviati a un sintetizzatore per creare suoni o musica che riflettono l'intento estetico dell'artista durante il disegno. Questo approccio consente di esplorare nuove dimensioni creative, combinando arti visive e musica in un'esperienza sinestetica unica.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Andrei Moldovan:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T164500Z
+DTEND:20240914T171500Z
+SUMMARY:Astronomia e Cyber Security: L'Impatto Emotivo su Analisti e Ricercatori
+DESCRIPTION: Il mondo dell'astronomia e quello della cyber security condividono molte somiglianze sorprendenti. Proprio come se cercassimo di riconoscere costellazioni nel cielo notturno, tracciando linee immaginarie tra le stelle, all'interno del mondo della cyber security colleghiamo dati sparsi per identificare potenziali attori malevoli o nuove relazioni interessanti. Le galassie rappresentano cluster di attori state-sponsored, complessi e formati da entità poco riconoscibili. Le stelle simboleggiano i gruppi "as-a-Service", che diffondono strumenti a basso costo, mentre le comete rappresentano i gruppi di hacktivisti, visibili solo per brevi momenti prima di scomparire. Lavorando nell'intelligence, mi sono spesso reso conto di dover affrontare problemi imprevisti e spesso con dati insufficienti, domandandomi costantemente la validità delle mie conclusioni. Questa presentazione vuole far luce sulle sfide e gli impatti emotivi in cui ci si può imbattere, affrontando una miriade di informazioni senza un nesso logico apparente. Come possiamo mantenere la lucidità e prendere decisioni informate in un contesto così complesso e caotico?
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46983
+SEQUENCE: 0
+ORGANIZER;CN=Stem@it:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T163000Z
+DTEND:20240914T173000Z
+SUMMARY:Robotica per la Vita della Città del Futuro
+DESCRIPTION: Cosa si farà:\n - Programma i robot per completare compiti in una città in miniatura. Impara a controllare i robot con il telecomando e scopri come possono migliorare la vita in città.\n - Progetta e programma un sistema di illuminazione a LED intelligente che può cambiare colore e reagire a diverse condizioni nella stanza. Impara le basi dell'automazione domestica e dell'IoT.
+GEO:42.5816338;14.0901461
+LOCATION: MOKids
+END:VEVENT
+BEGIN:VEVENT
+UID:46937
+SEQUENCE: 0
+ORGANIZER;CN=SecurityCert:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T161500Z
+DTEND:20240914T171500Z
+SUMMARY:Blue Team Threat Emulation Game 
+DESCRIPTION: È un gioco cooperativo di simulazione di minacce informatiche in cui i "Difensori" lavorano insieme per scoprire i percorsi di attacco utilizzati per violare il loro ambiente. Combina la struttura di un gioco di carte con il fascino dei classici giochi di ruolo per aiutare le organizzazioni e gli individui a imparare le tattiche, i metodi e gli strumenti utilizzati negli attacchi e nelle difese informatiche. Fornisce un motivo per considerare gli attacchi, discutere le procedure e pianificare soluzioni PRIMA che accadano nel tuo ambiente... il tutto divertendosi!
+GEO:42.5816338;14.0901461
+LOCATION: FreeKevin
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Andrea Pompili:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T160000Z
+DTEND:20240914T164500Z
+SUMMARY:Segui il Bianconiglio... se ci riesci...
+DESCRIPTION: Quando le protezioni informatiche non funzionano, il processo di Cyber Threat Hunting sembra l'unica soluzione in grado di identificare e successivamente migliorare il livello di protezione e resilienza di una infrastruttura critica: partendo da un'ipotesi (ho il sospetto che ci sia qualcosa), seguita da un'indagine (questo è ciò che sta andando male), fino alla definizione di una strategia di rilevamento e risposta efficace (so come trovarlo e quindi eseguire la risposta giusta). Questo processo deve essere applicato continuamente in un contesto ormai senza confini e in continua evoluzione, dove anche il ciclo di vita di un processo di threat hunting, per essere efficace, dovrebbe perlomeno essere costantemente allineato con i tempi dell'attaccante. Un approccio Data-lake orientato all'elaborazione batch per l'identificazione dei pattern può risolvere in parte la necessità, ma rimane ancora il problema relativo all'enorme potenza di calcolo necessaria per rimanere allineati all’attaccante e reagire in tempo reale alle kill-chain rilevate, esigenza che non può essere risolta solo aumentando illimitatamente le risorse. Introdurremo quindi un nuovo approccio al Cyber Threat Hunting di tipo Real-Time, supportato da alcuni casi d'uso sperimentati sul campo, basato su un approccio comportamentale completo basato su modelli statistici e di intelligenza artificiale che possono essere combinati con playbook di risposta dinamici, che possono essere ridefiniti in relazione ai feedback ricevuti, o sistemi di deception in grado di rallentare l’azione dell’attaccante e consentire ulteriori validazioni per recuperare il tempo necessario.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Michele Ubertone, Marta Taroni:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T160000Z
+DTEND:20240914T164500Z
+SUMMARY:Il diritto nella società della manipolazione
+DESCRIPTION: Anche se Internet è fondamentale per le nostre vite, non sempre riflettiamo sul tipo di transazione economica in cui siamo coinvolti tutte le volte che ce ne serviamo. Mentre quando andiamo al ristorante o in biblioteca abbiamo tutti abbastanza chiaro chi paga per il servizio che ci viene reso, ciò non ci è sempre altrettanto evidente quando siamo su Google, Instagram, TikTok, Tinder, Grindr, Snapchat, LinkedIn, o YouTube. Noi paghiamo il ristorante; il comune, attraverso i nostri tributi, paga la biblioteca, ma chi paga i colossi del Web con cui ci interfacciamo tutti i giorni? Anche se usiamo Internet molto più spesso di quanto non andiamo al ristorante o in biblioteca, solo una minoranza di noi sa dare una risposta esaustiva a questa domanda banale. La risposta, nelle linee essenziali, è la seguente. L'agente economico che opera nel settore digitale raccoglie dati su di noi: alcuni di questi dati vengono utilizzati per migliorare prodotti e servizi, mentre gli altri sono elaborati per ottenere algoritmi predittivi. Attraverso l'estrazione dei dati comportamentali è possibile rivolgere nel momento giusto lo stimolo giusto al consumatore, per indurlo a comportarsi online e offline nel modo desiderato dalla piattaforma e dall'inserzionista. Che il mezzo di comunicazione maggiormente utilizzato dall'umanità debba fondarsi sulla compravendita di potere manipolatorio è per così dire un accidente della storia. Non vi è nulla di tecnicamente necessario in questo disegno istituzionale. Esso non è mai stato votato o progettato da politiche pubbliche pienamente consapevoli. Il diritto inoltre si è tradizionalmente rivelato incapace di regolare Internet in modo efficace, di ridurre il suo potenziale manipolatorio e i suoi effetti distorsivi sulla rappresentazione della realtà da parte dei cittadini. In questo talk, ci serviremo di alcune nozioni di teoria generale del diritto per tentare di spiegare il perché di questa incapacità.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=M71A:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T153000Z
+DTEND:20240914T160000Z
+SUMMARY:Inclusione e tecnologia
+DESCRIPTION: Nell'epoca in cui la tecnologia modella il nostro quotidiano e disegna il futuro del lavoro, è fondamentale garantire un ambiente inclusivo e equo per chiunque. In questo panel esploreremo le visioni e gli obiettivi del Manifesto Italiano delle Donne nella Tecnologia, parleremo delle principali sfide che le donne affrontano nel settore tech e come il manifesto propone di superarle attraverso azioni concrete, formazione e sensibilizzazione. Esploreremo insieme come ciascuno di noi può contribuire a creare un ecosistema tecnologico più equilibrato, valorizzando le competenze e le prospettive femminili.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Massimo D’Alessio :MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T153000Z
+DTEND:20240914T160000Z
+SUMMARY:CAN-Bus Zero Trust
+DESCRIPTION: Il CanBus è un protocollo solido e robusto, ma anche vecchio e insicuro. Negli ultimi anni viene sfruttato da malintenzionati per rubate diversi tipi di auto. Con un approccio molto basilare si vogliono analizzare le vulnerabilità che affliggono questa tecnologia e implementare un layer di sicurezza che non impatti sulle prestazioni del protocollo originale.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46917
+SEQUENCE: 0
+ORGANIZER;CN=Giorgio Bonfiglio:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T151500Z
+DTEND:20240914T171500Z
+SUMMARY:Proteggere le Web Applications in Ambienti Cloud
+DESCRIPTION: In questo workshop parleremo di tecniche infrastrutturali (cioè che non richiedono modifiche nell'applicazione) per la protezione di web applications contro i threat più comuni. Partiremo con il simulare un attacco di data exfiltration contro un ambiente OWASP Juice Shop, per poi passare all'implementazione di contromisure (un Web Application Firewall e altre cose) e - se tutto va bene - mostreremo alla fine come lo stesso attacco non sarà più effettivo.\nFaremo tutto ciò in una sandbox da noi fornita, quindi dovete portare solo il cervello e un computer di qualche tipo con un browser e una shell.\n\n\nIn questo workshop parleremo di tecniche infrastrutturali (cioè che non richiedono modifiche nell'applicazione) per la protezione di web applications contro i threat più comuni. Partiremo con il simulare un attacco di data exfiltration contro un ambiente OWASP Juice Shop, per poi passare all'implementazione di contromisure (un Web Application Firewall e altre cose) e - se tutto va bene - mostreremo alla fine come lo stesso attacco non sarà più effettivo.\nFaremo tutto ciò in una sandbox da noi fornita, quindi dovete portare solo il cervello e un computer di qualche tipo con un browser e una shell.
+GEO:42.5816338;14.0901461
+LOCATION: FreeKevin
+END:VEVENT
+BEGIN:VEVENT
+UID:46983
+SEQUENCE: 0
+ORGANIZER;CN=Stem@it:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T150000Z
+DTEND:20240914T160000Z
+SUMMARY:Stampa e Modellazione 3D
+DESCRIPTION: Cosa si farà:\n - Mostra e Prova: Filamento Riciclato in PET per Stampa 3D. Scopri come le bottiglie di PET possono essere trasformate in filamento per stampanti 3D. Provalo tu stesso e osserva la magia del riciclo in azione.\n - Laboratori di Design 3D con Tinkercad. Impara le basi della modellazione 3D con Tinkercad. Crea i tuoi design e vedi come prendono vita attraverso la stampa 3D.\n - Progetto Architettonico: Cupola Geodetica. Partecipa a un progetto architettonico per costruire una cupola geodetica. Comprendi i principi dell'architettura e dell'ingegneria in modo divertente e interattivo.
+GEO:42.5816338;14.0901461
+LOCATION: MOKids
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Davide Baraldi:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T144500Z
+DTEND:20240914T153000Z
+SUMMARY:Bitcoin e l'insicurezza segreta degli Hardware Wallet
+DESCRIPTION: La sicurezza estrema di Bitcoin può richiede conoscenze crittografiche profonde. Nel nostro paese i non tecnici spesso diffondono l'idea che il massimo livello della self custody di Bitcoin si basi sugli Hardware Wallet. Ma essi possono diventare vulnerabilità nella catena di custodia dei vostri asset crittografici. Se si utilizzano H.W. bisogna essere consapevoli che si espone il fianco a vulnerabilità nella generazione e detenzione della mnemonica che non possono essere mitigate.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Enrico Zimuel, Leonida Gianfagna:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T144500Z
+DTEND:20240914T153000Z
+SUMMARY:Hackerare un Large Language Model: un tentativo di Explainable AI (XAI)
+DESCRIPTION: In questa presentazione verrà introdotto il tema della Explainable AI, ossia della capacità di spiegare i modelli di intelligenza artificiale per lo più basati su reti neurali. Questo tema sta diventando sempre più importante con l'utilizzo diffuso dei Large Language Model, ma sappiamo davvero come funzionano e quali sono i loro limiti?
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46917
+SEQUENCE: 0
+ORGANIZER;CN=Alfredo 'Rainbowbreeze' Morresi:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T141500Z
+DTEND:20240914T150000Z
+SUMMARY:Casa tua, domotica con le tue regole: Privacy, Scelta & Sostenibilità con Home Assistant (Workshop)
+DESCRIPTION: Ti piacerebbe domotizzare casa, ma non ti va di accedere a 5 cloud diversi per comandare 2 lampadine e 1 serranda, facendo anche sapere a svariati governi d’oltremare quante volte sei entrato in bagno? Allora impariamo assieme a smanettare con Home Assistant, il più famoso software open source per smart home basato su 3 principi: privacy (controlla cosa condividi, e con chi), libertà (niente restrizioni sui dispositivi da usare o lock-in) e sostenibilità (il supporto all’hardware deve durare nel tempo). Vedremo come installarlo su un RasPi o altro SBC, controllare alcuni componenti IoT e programmare le prime automazioni. Il tutto squisitamente in locale.\n\nPer partecipare profiquamente al workshop, occorre arrivare con Home Assistant OS già installato da qualche parte:\n- Su un Raspberry PI - https://www.home-assistant.io/installation/raspberrypi\n- Sul proprio computer all'interno di VirtualBox / VMWare / KVM\n  - Linux: https://www.home-assistant.io/installation/linux\n  - Mac: https://www.home-assistant.io/installation/macos\n  - Windows: https://www.home-assistant.io/installation/windows\n- Sul proprio computer o board in qualche altro modo: https://www.home-assistant.io/installation\n\nUna volta scelto un metodo di installazione, basta seguire le istruzioni ai link indicati ed arrivare alla fine del primo boot di Home Assistant, dove appare il "Welcome" di benvenuto.
+GEO:42.5816338;14.0901461
+LOCATION: FreeKevin
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Michele Marazzi:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T141500Z
+DTEND:20240914T144500Z
+SUMMARY:Research is Lagging Behind: Reverse Engineering DRAM Circuits with SEM and FIB
+DESCRIPTION: I produttori di DRAM non rendono nota l'architettura dei sense amplifiers installati nei loro chip. Purtroppo, questo ostacola la ricerca accademica che si concentra sullo studio o sul miglioramento delle DRAM. Senza conoscere la topologia del circuito, le dimensioni dei transistor e il layout dei sense amplifiers, i ricercatori sono costretti ad affidarsi a ipotesi, compromettendo la fedeltà dei loro studi. Il nostro obiettivo è quello di colmare per la prima volta questo divario tra il mondo accademico e quello industriale, eseguendo una microscopia elettronica a scansione (SEM) con fascio di ioni focalizzato (FIB) su chip di DRAM DDR4 e DDR5 di recente produzione dei tre principali fornitori. Ciò ha richiesto un'adeguata preparazione dei campioni, l'identificazione dell'area di rilevamento e l'allineamento delle immagini provenienti dalle diverse fette FIB. Utilizzando le immagini acquisite, abbiamo effettuato il reverse engineering dei circuiti, misurato le dimensioni dei transistor ed estratto i layout fisici dei sense amplifiers, tutti elementi precedentemente non disponibili ai ricercatori. I nostri risultati dimostrano che la topologia classica delsense amplifier, comunemente ipotizzata, è stata sostituita da un progetto più sofisticato di cancellazione dell'offset da parte di due dei tre principali produttori di DRAM.\n\nInoltre, le dimensioni dei transistor dei sense amplifiers e i loro layout fisici rivelati sono significativamente diversi da quelli ipotizzati nella letteratura esistente. Considerando le DRAM di base, la nostra analisi mostra che i modelli di DRAM pubblici sono fino a 9 volte imprecisi e la ricerca esistente ha un errore fino a 175 volte nella stima dell'impatto delle modifiche proposte. Per consentire in futuro una ricerca sulle DRAM ad alta fedeltà, abbiamo reso open source i nostri dati, compresi i circuiti e i layout realizzati in reverse engineering.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Davide Berardi:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T141500Z
+DTEND:20240914T144500Z
+SUMMARY:Datemi 21 minuti e cambierò la vostra visione del tracing su Linux
+DESCRIPTION: In questo talk, esploreremo le tecniche avanzate di tracciamento dei programmi su Linux, con un focus particolare su strumenti come bpfcc, perf, execsnoop, gdb, falco e strumenti meno noti. Il talk fornirà una panoramica su come tutto questo ecosistema di questi strumenti può essere utilizzato per monitorare e analizzare le prestazioni e il comportamento dei programmi, identificare colli di bottiglia, e risolvere problemi complessi e aiutare nel reverse engineering, possibilità fino a poco tempo fa mancanti su Linux. Verranno illustrate le differenze principali tra questi strumenti, i loro casi d'uso ideali, e le best practices per la loro implementazione. Alla fine del talk, i partecipanti avranno una comprensione chiara delle opzioni disponibili per il tracciamento su Linux e di come applicarle efficacemente nei propri progetti. Lo slogan del talk è: se anche tu, a un certo punto nell'uso di Linux ti sei chiesto: "Come fai ad avere una lista di tutti i comandi che vengono eseguiti su Linux quando lanci Firefox?" o domande simili, questo talk fa per te!
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46983
+SEQUENCE: 0
+ORGANIZER;CN=Stem@it:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T133000Z
+DTEND:20240914T143000Z
+SUMMARY:Programmazione per il Mondo del Metaverso
+DESCRIPTION: Cosa si farà:\n - Utilizza Cospace, un software adatto ai bambini, per creare e esplorare mondi 3D. Immergiti nel metaverso e dai vita alla tua immaginazione.\n - Indossa un visore Oculus Quest 2 VR ed esplora mondi virtuali. Visita spiagge tropicali, oceani sottomarini e persino lo spazio in un'esperienza immersiva.
+GEO:42.5816338;14.0901461
+LOCATION: MOKids
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Osservatorio Nessuno:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T133000Z
+DTEND:20240914T141500Z
+SUMMARY:Come gestire nodi TOR dalla tua cantina
+DESCRIPTION: Gestire nodi TOR puo' essere divertente, ma anche ben fastidioso, come farlo in Italia? Per spiegarlo vi racconteremo una storia che parte dal processo Ruby ter, arriva in Siria e finisce in una cantinetta piastrellata della Torino Liberty.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Gregorio Palamà:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T133000Z
+DTEND:20240914T141500Z
+SUMMARY:The good, the bad, the native
+DESCRIPTION: Native image di GraalVM offre un ottimo modo per ottimizzare le nostre applicazioni scritta per la JVM e trasformarle in un eseguibile nativo, che garantirà bassi tempi startup, basso consumo di risorse, alte prestazioni. Molte librerie e framework non sono ancora pronti per tutto questo, e questo è un male! Vieni a scoprire il mio viaggio personale nella compilazione nativa di un'applicazione basata su JVM. Vedremo sia le cose belle, così come i dolori, le varie vicissitudini e alcuni dei modi che ho trovato efficaci per risolvere i momenti difficili.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Alfredo 'Rainbowbreeze' Morresi:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T130000Z
+DTEND:20240914T133000Z
+SUMMARY:Casa tua, domotica con le tue regole: Privacy, Scelta & Sostenibilità con Home Assistant
+DESCRIPTION: Ti piacerebbe domotizzare casa, ma non ti va di accedere a 5 cloud diversi per comandare 2 lampadine e 1 serranda, facendo anche sapere a svariati governi d’oltremare quante volte sei entrato in bagno? Allora impariamo assieme a smanettare con Home Assistant, il più famoso software open source per smart home basato su 3 principi: privacy (controlla cosa condividi, e con chi), libertà (niente restrizioni sui dispositivi da usare o lock-in) e sostenibilità (il supporto all’hardware deve durare nel tempo). Vedremo come installarlo su un RasPi o altro SBC, controllare alcuni componenti IoT e programmare le prime automazioni. Il tutto squisitamente in locale.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Mirko di Salvatore, Nicolò Monti:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T130000Z
+DTEND:20240914T133000Z
+SUMMARY:Forensics digitale contemporanea
+DESCRIPTION: L'informatica forense è stata storicamente caratterizzata da processi investigativi estesi e manuali. Questo intervento introduce un approccio innovativo basato su modelli computazionali avanzati per trasformare il settore. Presentiamo f-T5, un modello linguistico generalista ottimizzato per applicazioni forensi digitali. f-T5 è stato affinato su dati forensi specializzati, curati appositamente, data la scarsità di risorse pubbliche nel dominio.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46937
+SEQUENCE: 0
+ORGANIZER;CN=M71A:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T130000Z
+DTEND:20240914T140000Z
+SUMMARY:M71A - gioco dell'oca hackerato
+DESCRIPTION: 
+GEO:42.5816338;14.0901461
+LOCATION: FreeKevin
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Andrea 'Mangusta' Azzalin:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T121500Z
+DTEND:20240914T130000Z
+SUMMARY:Pandemia da coronausb
+DESCRIPTION: L’obiettivo del talk è raccontare la storia di come sono venuto a conoscenza e delle analisi svolte per il gruppo noto come UNC4990, particolarmente affezionato a vittime del territorio italiano utilizzando chiavette USB infette come vettore d’attacco. Grazie alle attività trasversali di: Threat Hunting, Malware Analysis e Threat Intelligence, verrà illustrato il modus operandi di un complesso impianto malevolo e verrà dimostrata l’importanza della sinergia di tali attività, necessarie per esaminare gruppi emergenti che utilizzano tecniche innovative e non convenzionali.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Mattia Zago, Giovanni Bartolomucci, Giuseppe Porcu, Stefano Maistri:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T121500Z
+DTEND:20240914T130000Z
+SUMMARY:Beyond the Basics: Deep Dive into Securing OAuth2 Implementations
+DESCRIPTION: Questa proposta presenta una sessione completa progettata per fornire ai professionisti della sicurezza le conoscenze tecniche e le competenze pratiche necessarie per proteggere le implementazioni di OAuth2 e OpenID Connect. Il seminario approfondisce gli aspetti tecnici dei flussi di grant di OAuth2, evidenziando i potenziali rischi per la sicurezza associati a configurazioni errate. Esploreremo le proprietà dei token, sottolineando l'importanza di definire ambiti granulari per ridurre al minimo l'escalation dei privilegi. Verranno analizzati esempi reali di vulnerabilità relative a OWASP “A07 - Identification and Authentication Failures”, dimostrando come le configurazioni insicure di OAuth2/OIDC contribuiscano a questa categoria di minacce critiche.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Simone Onofri:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T101500Z
+DTEND:20240914T110000Z
+SUMMARY:Threat Modeling for Decentralized Identities
+DESCRIPTION: Negli ultimi decenni, c'è stato un crescente impegno per portare l'identità su internet e sul web. Ciò che un tempo era un luogo dove ci si identificava con un nickname, ora richiede i nostri dati reali. Attualmente, la gestione è nelle mani dei governi. Il Dipartimento della Sicurezza Interna degli Stati Uniti (US DHS), l'Unione Europea e le motorizzazioni stanno cercando di implementare su larga scala le identità digitali "reali" in modo decentralizzato. In futuro, avremo il nostro passaporto e la nostra patente digitale in un Wallet. Ma quali sono le minacce per la Privacy, la Sicurezza e i Diritti Umani? Al W3C, gli standard vengono sottoposti a revisioni di sicurezza attraverso un modello di minacce (Threat Model) per comprendere cosa si sta cercando di fare, cosa potrebbe andare storto e quali soluzioni possiamo adottare. Durante il talk, dopo una breve introduzione sul Threat Modeling e sull'architettura di riferimento, faremo una sessione interattiva di Threat Modeling tramite brainstorming. Utilizzeremo tecniche come OSSTMM, STRIDE, LINDDUN e altre per approfondire l'argomento insieme.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Alberto Pelliccione:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T101500Z
+DTEND:20240914T110000Z
+SUMMARY:The Annoying Sentinel: Un sistema di monitoraggio domestico con intelligenza artificiale che vi farà venire gli incubi
+DESCRIPTION: I progressi nelle capacità di visione dei Large Language Models stanno consentendo un nuovo tipo di interazione tra i sistemi GenAI e il mondo reale. Quando queste capacità possono essere sfruttate senza la necessità di ricorrere al cloud computing, è possibile creare agenti che rispettino la privacy e che sorveglino i nostri spazi privati. Mostreremo come, con risorse relativamente limitate, sia possibile creare un sistema di monitoraggio e allarme conversazionale che può essere potenzialmente ampliato per interagire con altri sensori distribuiti, ad esempio, all'interno di una casa intelligente.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46983
+SEQUENCE: 0
+ORGANIZER;CN=Stem@it:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T100000Z
+DTEND:20240914T110000Z
+SUMMARY:Robotica per la Vita della Città del Futuro
+DESCRIPTION: Cosa si farà:\n - Programma i robot per completare compiti in una città in miniatura. Impara a controllare i robot con il telecomando e scopri come possono migliorare la vita in città.\n - Progetta e programma un sistema di illuminazione a LED intelligente che può cambiare colore e reagire a diverse condizioni nella stanza. Impara le basi dell'automazione domestica e dell'IoT.
+GEO:42.5816338;14.0901461
+LOCATION: MOKids
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Jaromil:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T093000Z
+DTEND:20240914T101500Z
+SUMMARY:EUDI - La nuova identità digitale in Europa: un disastro annunciato?
+DESCRIPTION: Il 3 giugno 2021 la Commissione Europea ha raccomandato la creazione di una “cassetta degli attrezzi” (Toolbox) per lo sviluppo di “portafogli” (wallet) che custodiscano le identità digitali dei cittadini europei (EUDI, European Digital Identity). Gli attrezzi forniti includono un’Architettura e un Quadro di Riferimento tecnico, un insieme di standard comuni e specifiche tecniche e linee guida. I fornitori di tali portafogli saranno autorità pubbliche o organizzazioni del settore privato se riconosciute dagli Stati membri. L’operazione è guidata da un gruppo di esperti scelti da un’organizzazione di nome eIDAS (electronic Identification, Authentication and Trust Services) la cui missione è aggiornare e rafforzare le implementazioni di identità digitali in Europa, come quella dello SPID in Italia.\n\nNel lento corso di questa iniziativa, che doveva già essere conclusa con risultati usabili alla fine del 2023, si è evoluto un documento chiamato EUDI ARF (Architecture Reference Framework) che ha riassunto una serie di raccomandazioni su come realizzare l’architettura, evolvendosi attraverso varie versioni fino alla versione nr 4 recentemente pubblicata.\n\nIl documento però presenta molti problemi per la privacy e la sicurezza dei cittadini, forse anche più gravi dei suoi ritardi....
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Andrea Pompili:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T093000Z
+DTEND:20240914T101500Z
+SUMMARY:From Zero to Hero: come fare un videogioco senza avere idea di come si faccia
+DESCRIPTION: Cosa puoi fare con il tuo C64 quando ti rendi conto di essere una frana nei giochi? Ovviamente farti il tuo gioco personale. E da bravo megalomane, non il solito puzzle game, ma uno shoot-em-up con tanti nemici sullo schermo, armi devastanti, parallasse e tanti livelli ambientati in mondi remoti. Senza alcuna idea di quello che mi sarebbe aspettato, tra ispirazioni più o meno esplicite, frustrazioni, idee e soddisfazioni, molti sogni ridimensionati, ma anche molti trick tecnici inaspettati, alla fine ci sono riuscito… in un mondo che al tempo era molto poco connesso (almeno per me) e in una continua lotta con le limitazioni degli strumenti a disposizione e con le interrogazioni del liceo.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Mohammadreza Ashouri:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T090000Z
+DTEND:20240914T093000Z
+SUMMARY:Enhancing privacy and security in storage systems with zero-knowledge cryptography
+DESCRIPTION: In today's digital landscape, protecting user data is more crucial than ever. With increasing instances of data breaches and growing concerns about privacy, traditional security measures are often insufficient to safeguard sensitive information. Enter zero-knowledge cryptography—a revolutionary approach that promises to enhance the privacy and security of storage systems without compromising on usability.\n\nThis presentation, titled "Enhancing Privacy and Security in Storage Systems with Zero-Knowledge Cryptography," aims to demystify the concept of zero-knowledge proofs and their transformative potential in the realm of data security. Zero-knowledge proofs allow one party to prove to another that a statement is true without revealing any additional information, making them a powerful tool for protecting data.\n\nWe will start by breaking down the fundamentals of zero-knowledge cryptography, explaining how these proofs work and why they are so effective in ensuring data confidentiality and integrity. Through practical examples, attendees will see how zero-knowledge techniques can be applied to secure storage systems, protecting data from unauthorized access while maintaining operational efficiency.\n\nKey topics covered will include:\n\n    Zero-Knowledge Proofs 101: Understanding the basics and underlying principles of zero-knowledge cryptography.\n    Applications in Storage Systems: How to implement zero-knowledge proofs to secure stored data, ensuring that sensitive information remains private and untampered.\n    Case Studies: Real-world examples of zero-knowledge cryptography in action, highlighting successful implementations and the challenges encountered.\n    Integration with Existing Security Protocols: Strategies for integrating zero-knowledge cryptography with current security measures to create a robust defense-in-depth approach.\n    Future Trends: Exploring the evolving landscape of zero-knowledge cryptography and its potential to address emerging security challenges.\n\nAttendees will leave with a comprehensive understanding of how zero-knowledge cryptography can revolutionize the way we secure storage systems. The session will provide actionable insights and practical guidance on implementing these techniques, making it invaluable for security professionals, IT managers, and anyone involved in data protection.\n\n\nIn an era where data breaches and privacy concerns are on the rise, zero-knowledge cryptography offers a groundbreaking approach to securing storage systems. This presentation will provide an in-depth look at how zero-knowledge proofs work and their potential to revolutionize data security. We will explore practical applications, demonstrating how zero-knowledge techniques can ensure data integrity and confidentiality without compromising usability. Attendees will gain insights into implementing these cryptographic methods to create robust, privacy-preserving storage solutions. By the end of this session, you'll understand how to leverage zero-knowledge cryptography to build systems that protect user data from unauthorized access while maintaining trust and transparency.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Michele Ubertone, Lorenzo 'lopoc' Cococcia:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T090000Z
+DTEND:20240914T093000Z
+SUMMARY:Hacking the Law: Quando i giudici AI incontrano gli avvocati "intelligenti"
+DESCRIPTION: Partendo dal paradosso di Kripkestein, discuteremo le implicazioni dell'uso dell'IA nelle sentenze sullo Stato di diritto. Vedremo come i modelli linguistici di grandi dimensioni (LLM) interpretano il testo e come possono essere manipolati attraverso l'ingegneria offensiva dei prompt o “jailbreaking”. Con questo termine intendiamo la creazione di prompt che costringono gli LLM a rispondere in modi che non sono stati voluti dai loro programmatori e, più specificamente, ad applicare regole diverse da quelle che gli LLM avrebbero dovuto applicare. Questo è istruttivo non solo perché ci mostra alcuni dei problemi che la giurisdizione guidata dall'intelligenza artificiale può sollevare, ma anche perché crea un quadro prezioso per discutere le regole generali da seguire. Concluderemo con un esercizio pratico in cui cercheremo di “hackerare” un LLM a cui è stato affidato il compito di agire come un giudice AI e di applicare una determinata regola a un caso. I partecipanti elaboreranno argomentazioni volte a sfruttare potenziali allucinazioni e debolezze nel modo in cui l'IA elabora le regole.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46983
+SEQUENCE: 0
+ORGANIZER;CN=Stem@it:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T083000Z
+DTEND:20240914T093000Z
+SUMMARY:Stampa e Modellazione 3D
+DESCRIPTION: Cosa si farà:\n - Mostra e Prova: Filamento Riciclato in PET per Stampa 3D. Scopri come le bottiglie di PET possono essere trasformate in filamento per stampanti 3D. Provalo tu stesso e osserva la magia del riciclo in azione.\n - Laboratori di Design 3D con Tinkercad. Impara le basi della modellazione 3D con Tinkercad. Crea i tuoi design e vedi come prendono vita attraverso la stampa 3D.\n - Progetto Architettonico: Cupola Geodetica. Partecipa a un progetto architettonico per costruire una cupola geodetica. Comprendi i principi dell'architettura e dell'ingegneria in modo divertente e interattivo.
+GEO:42.5816338;14.0901461
+LOCATION: MOKids
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Vito 'Trust_No_One' De Laurentis:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T081500Z
+DTEND:20240914T090000Z
+SUMMARY:Offensive Operations as Code: Personal Journey in Innovating and Automating Cloud Infrastructure
+DESCRIPTION: Questa presentazione ripercorre il mio personale viaggio nell'innovazione delle offensive cyber operations, utilizzando infrastrutture cloud con Terraform e il paradigma Infrastructure as Code (IaC). Le architetture introdotte, sfruttando il linguaggio HCL (HashiCorp Configuration Language), si integrano con strumenti avanzati di comando e controllo, strumenti di networking e anonimizzazione, riuscendo a garantire scalabilità e sicurezza. L'automazione della configurazione e la gestione delle risorse cloud possono consentire una migliore efficacia delle operazioni offensive complesse.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Matteo Creati:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T081500Z
+DTEND:20240914T090000Z
+SUMMARY:Token theft attacks a smart way to reuse cookies from aunt MFA
+DESCRIPTION: I token sono elementi chiave nelle piattaforme di identità OAuth 2.0, come Entra ID. Per accedere a una risorsa (ad esempio, un'applicazione web protetta da Entra ID), un utente deve presentare un token valido. Gli aggressori rubano i token per impersonare gli utenti e accedere ai loro dati per tutto il ciclo di vita del token rubato. Per fare ciò, cercano di ottenere l'accesso alla posizione in cui è memorizzato un token (sul client, nei server proxy o in alcuni casi nei log di rete o applicativi) per acquisirlo e riutilizzarlo da un'altra posizione.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46937
+SEQUENCE: 0
+ORGANIZER;CN=HackInBo® Forensic Game:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T080000Z
+DTEND:20240914T110000Z
+SUMMARY:Moca for First Responders
+DESCRIPTION: HackInBo®  Forensic Games sarà presentato in forma ridotta e sarà articolato come un momento di formazione seguito da un laboratorio pratico in cui lavoreranno i partecipanti e da un momento di analisi e valutazione del lavoro svolto.\nLa formazione riguarderà l'attività di individuazione, repertazione e messa in sicurezza di dispositivi rinvenuti sulla scena del crimine.\nNel laboratorio saranno a disposizione dei partecipanti 3 portatili che dovranno essere adeguatamente repertati.\nNel momento di analisi, commenteremo tutti insieme il lavoro fatto e provvederemo a stilare una "graduatoria".
+GEO:42.5816338;14.0901461
+LOCATION: FreeKevin
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Marco d'Itri:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T074500Z
+DTEND:20240914T081500Z
+SUMMARY:Debian, /var/ vuota, /etc/ vuota e factory reset
+DESCRIPTION: Marco spiegherà i propri esperimenti per implementare in Debian, e più in generale nelle distribuzioni tradizionali, il factory reset (ripristino alle impostazioni di fabbrica): cosa funziona già, cosa manca e quali hack^Wstrategie si possono provare per sviluppare questo meccanismo in modo graduale e senza bisogno di coinvolgere l'intera distribuzione. Potere ripristinare un sistema cancellando tutto tramite /usr è interessante per gestire container, appliance hardware e altro ancora.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Carola Frediani:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T074500Z
+DTEND:20240914T081500Z
+SUMMARY:Il ruolo di hacktivisti e cyber army volontari in guerra
+DESCRIPTION: Con la guerra in Ucraina si è dispiegato un tipo nuovo di hacktivismo e di partecipazione alla cyberwarfare tra Stati. Il suo modello è rappresentato dall’IT Army ucraino, che per la prima volta raccoglie i cyber volontari di tutto il mondo sotto un comando (benché formalmente indiretto) statale o governativo. Quel tipo di organizzazione si colloca volutamente in un terreno ambiguo, in cui lo Stato accetta i contributi ma nello stesso tempo ne prende le distanze. E ambiguo è lo status dei partecipanti. Ma nel conflitto ucraino non sono mancati gruppi sedicenti hacktivisti (o cybercrimninali, o entrambe le cose) che sembrano piuttosto allineati con l’intelligence russa, o con gli obiettivi di propaganda del Cremlino. C’è molta confusione sotto il cielo e non è chiaro nemmeno come definire tutti questi soggetti. L’unico dato chiaro è che agli Stati conviene poter contare su armate cyber che sostengano le proprie offensive informatiche mantenendo all'occorrenza una qual certa plausible deniability, o comunque una non completa responsabilità. Il tutto in un quadro in cui i privati (aziende, startup, individui) stanno assumendo un ruolo sempre più rilevante.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Gregorio Palamà, Luca Di Vita:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T070000Z
+DTEND:20240914T074500Z
+SUMMARY:The sound of malware
+DESCRIPTION: Ciao CVEs, miei vecchi amici, sono venuto a occuparmi di nuovo di voi Perché una backdoor si insinua silenziosamente... Ops, scusate, stavamo cantando a squarciagola. È una cosa che continuiamo a fare ogni volta che una nuova vulnerabilità irrompe nella nostra routine quotidiana. Ultimamente è successo sempre più spesso a causa delle dipendenze del nostro software. Log4J, avete detto? Oh, beh, non dimentichiamoci di XZUtils! Li chiamano attacchi alla catena di distribuzione. Abbiamo iniziato ad affrontarli a ritmo di SLSA (leggi “salsa”), ma poi abbiamo notato che potevamo fare di più. Molto di più! E abbiamo trasformato i nostri binari malevoli in... beh, in forme d'onda. E abbiamo iniziato a farli dondolare! Leggendo questi binari come se fossero normali forme d'onda e analizzandoli con un po' di matematica (Cepstum, serie di Fourier, ecc.) abbiamo creato un modello che mira a rilevare se una dipendenza è dannosa. E anche di classificarla in base al tipo di malware. Affascinante, vero? Il suono del malware...
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Piergiorgio Vagnozzi:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240914T070000Z
+DTEND:20240914T074500Z
+SUMMARY:Cloud Semplice e Scalabile con .NET Orleans: il motore dietro XBox, Skype e GearOfWar
+DESCRIPTION: Una delle maggiori sfide che si incontra nello sviluppo di soluzioni cloud è la scalabilità unità all'affidabilità. Per anni lo scettro di miglior soluzione è stato appannaggio della coppia ActorModel/Akka, che tuttavia richiedeva competenze specifiche ed un radicale cambio di paradigma nella programmazione. Per fortuna Microsoft ha reso Opensource e disponibile a tutta la community il framework .NET Orleans che, implementando il Virtual Actor Model fruibile in C# ed F#, permette di scalare con semplicità senza dover imparare da zero un nuovo linguaggio. Nella sessione vedremo brevemente un po' di teoria (Grain, Silos, ecc.) per poi passare alla dissezione di un'applicazione di esempio in esecuzione su un cluster Kubernetes.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Stefano SteveDEFT Fratepietro\n:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T194500Z
+DTEND:20240913T203000Z
+SUMMARY:Presentazione libro "Non ERA un libro per hacker"
+DESCRIPTION: Tra falsi miti e storie gonfiate sul cybercrime si racconta tutto e il contrario di tutto, distorcendo la percezione della realtà del fenomeno. Il libro è stato scritto con l’obiettivo di raccontare fatti realmente accaduti e storie avvincenti dove la sicurezza informatica e le indagini digitali vengono raccontate usando un linguaggio semplice e divulgativo. Stefano, in ogni storia, racconta un pezzo di sé e della sua pluriennale esperienza nel settore. Attacchi informatici, indagini oltre oceano, casi di violenza sulle donne e virus sofisticati accompagneranno il lettore in una serie di avvincenti ed incredibili avventure i cui protagonisti sembrano usciti da serie televisive e film campioni di incassi.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46937
+SEQUENCE: 0
+ORGANIZER;CN=Metro Olografix:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T190000Z
+DTEND:20240913T203000Z
+SUMMARY:CBR+PNK
+DESCRIPTION: 
+GEO:42.5816338;14.0901461
+LOCATION: FreeKevin
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Marco Di Costanzo, Vito Alfano:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T190000Z
+DTEND:20240913T194500Z
+SUMMARY:The curse of False Flag
+DESCRIPTION: Questo è un caso di un'indagine condotta in collaborazione tra ricercatori di sicurezza riguardo a un post su un noto social network, che annunciava erroneamente una campagna lanciata da un gruppo APT, iniziata come un'analisi di intelligence delle minacce informatiche e conclusasi con la scoperta di una campagna di criminalità informatica più ampia coinvolgendo vari tipi di entità, inclusi diverse aziende di sicurezza private e Interpol.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Michele Pietravalle aka PHCV:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T190000Z
+DTEND:20240913T194500Z
+SUMMARY:PiracyShield e censura di stato
+DESCRIPTION: Come si è arrivati a Piracy Shield? Quali sono stati i tentativi precedenti? Come dovrebbe funzionare? Quali pericoli rappresenta per la net neutrality e per la libertà di informazione? E a cosa si potrebbe arrivare? Storia (triste) dell’implementazione italiana della censura di Stato
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46983
+SEQUENCE: 0
+ORGANIZER;CN=Stem@it:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T180000Z
+DTEND:20240913T190000Z
+SUMMARY:Programmazione per il Mondo del Metaverso
+DESCRIPTION: Cosa si farà:\n - Utilizza Cospace, un software adatto ai bambini, per creare e esplorare mondi 3D. Immergiti nel metaverso e dai vita alla tua immaginazione.\n - Indossa un visore Oculus Quest 2 VR ed esplora mondi virtuali. Visita spiagge tropicali, oceani sottomarini e persino lo spazio in un'esperienza immersiva.
+GEO:42.5816338;14.0901461
+LOCATION: MOKids
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Valerio 'ftp21' Mancini:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T171500Z
+DTEND:20240913T180000Z
+SUMMARY:30 seconds to Mars ma anche su Hotbird
+DESCRIPTION: Dallo ricostruzione del segnale video al fault injection sulle CPU. Questa è un po' la storia del hacking satellitare. Dialogheremo su cosa è cambiato in questi ultimi 30 anni e proveremo a vedere se ha ancora senso cercare vulnerabilità all'interno di Set Top Box.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Angelo Penduzzu:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T171500Z
+DTEND:20240913T180000Z
+SUMMARY:Industroyer2: un'analisi tecnica
+DESCRIPTION: Le infrastrutture industriali critiche, sono sempre più sotto il mirino degli attaccanti. Industroyer2 è una sofisticata variante del malware Industroyer, progettato per attaccare e sabotare infrastrutture industriali, in particolare reti elettriche. Rilevato nel 2022, si distingue per la sua capacità di comunicare direttamente con sistemi di controllo industriale (ICS) utilizzando protocolli specifici come IEC 104. Industroyer2 sfrutta questa connessione per inviare comandi malevoli, interrompendo operazioni cruciali e causando blackout o danni fisici. Il malware è modulare, consentendo agli attaccanti di adattarlo a diversi ambienti ICS. È stato attribuito a gruppi di hacker sostenuti da stati, evidenziando la crescente minaccia del cyber warfare contro infrastrutture critiche. Inizieremo con una breve introduzione, esaminando come Industroyer2 si inserisce nel contesto più ampio degli attacchi cyber alle infrastrutture critiche. Vedremo come questo malware sia stato utilizzato in operazioni sostenute da Stati, sottolineando la crescente minaccia del cyber warfare. Esploreremo le sue caratteristiche principali, come la capacità di comunicare direttamente con i dispositivi ICS utilizzando protocolli specifici come IEC 104, che gli consente di inviare comandi malevoli e causare interruzioni significative nelle operazioni industriali. Passeremo poi all'analisi del codice di Industroyer2. Attraverso un’analisi tecnica vi mostrerò come è strutturato il malware, evidenziando le sue componenti modulari che permettono agli attaccanti di adattarlo a diversi ambienti.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46983
+SEQUENCE: 0
+ORGANIZER;CN=Stem@it:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T163000Z
+DTEND:20240913T173000Z
+SUMMARY:Robotica per la Vita della Città del Futuro
+DESCRIPTION: Cosa si farà:\n - Programma i robot per completare compiti in una città in miniatura. Impara a controllare i robot con il telecomando e scopri come possono migliorare la vita in città.\n - Progetta e programma un sistema di illuminazione a LED intelligente che può cambiare colore e reagire a diverse condizioni nella stanza. Impara le basi dell'automazione domestica e dell'IoT.
+GEO:42.5816338;14.0901461
+LOCATION: MOKids
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Agostino Panico:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T163000Z
+DTEND:20240913T171500Z
+SUMMARY:Phantom Threats: Navigating Cyber False Flags in the Attribution Game
+DESCRIPTION: Oggi le operazioni di cyber false flag sono emerse come una forma sofisticata e ingannevole di guerra informatica. Queste operazioni coinvolgono attori malintenzionati che eseguono attacchi progettati per ingannare, facendo credere che il responsabile sia un gruppo o una nazione diversa. Imitando le tattiche, le tecniche e le procedure (TTP) di altre entità, le operazioni di cyber false flag mirano a confondere gli investigatori, sfruttare le tensioni esistenti e manipolare le narrazioni.\n\nIl ciclo di individuazione delle operazioni di cyber false flag prevede la raccolta di informazioni, l'armamento di attacchi con attributi fuorvianti, la realizzazione di questi attacchi in modo da riflettere lo stile di un altro gruppo, lo sfruttamento delle vulnerabilità per raggiungere gli obiettivi dell'operazione e la creazione di una narrazione che rafforzi l'inganno. Questo ciclo evidenzia come le operazioni false flag possano sfruttare la manipolazione dei media e le piattaforme sociali per influenzare l'opinione pubblica.\n\nPer affrontare queste sfide, i difensori devono impiegare una serie di TTP, tra cui l'intelligence delle minacce, l'analisi dell'attribuzione, la risposta agli incidenti e le strategie mediatiche. Tuttavia, queste misure possono anche contribuire a creare pregiudizi di conferma ed escalation, sottolineando la necessità di approcci completi all'attribuzione informatica e alla cooperazione internazionale per mitigare l'impatto di queste manovre ingannevoli.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Normando Marcolongo:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T163000Z
+DTEND:20240913T171500Z
+SUMMARY:Teoria dell'informazione per nerd svogliati
+DESCRIPTION: Hai sempre sentito parlare di teoria dell’informazione e per pigrizia non ci hai mai voluto guardare dentro? Quella formalizzata da Shannon alla fine degli anni 40? Ci toglieremo un po' di curiosità: dal concetto di informazione a come si riesca a comprimerla. Ci sarà un po’ di matematica ma se non ti piace la matematica non puoi essere amante dei calcolatori; prometto che non sarà difficile però!
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Davide Ornaghi:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T160000Z
+DTEND:20240913T163000Z
+SUMMARY:Fuzzing del firewall di Linux con syzkaller
+DESCRIPTION: Nftables, il sistema che molte distro Linux hanno iniziato a utilizzare come firewall, è stato negli ultimi anni preso di mira dagli attaccanti per via della sua alta complessità e facile programmabilità. Molti 0-days vengono identificati grazie all'analisi manuale del codice sorgente e, più frequentemente, al fuzzing con syzkaller, tramite la scrittura di specifiche grammatiche che definiscono le modalità d'interazione con i vari sottosistemi. Pur coprendo efficacemente la creazione delle regole, la grammatica di Nftables sembra non considerare molti casi d'uso delle regole del firewall, lasciando scoperta un'ampia superficie d'attacco. Questo talk descriverà come la copertura dello stack di rete è stata introdotta nel fuzzer per poi risolvere il problema della coverage incompleta e testare le regole di Nftables. Verranno poi mostrate le vulnerabilità rinvenute grazie a questa tecnica e le relative idee di exploitation per ottenere i privilegi di root su Linux.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Tony Mobily 'merc':MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T160000Z
+DTEND:20240913T180000Z
+SUMMARY:Fondazione della Metro Olografix, hacking, stasi criogenica: aneddoti, considerazioni, sogni
+DESCRIPTION: In questo talk, Merc parla di come sia nata la Metro Olografix, aneddoti inediti sulle prime disavventure, disavventure, scelte -- e cosa succederebbe e quelle scelte fossero fatte oggi. Merc parla anche della sua stasi criogenica trentennale, di cosa ha scoperto al risveglio della cyber security, chiedendosi se lo spirito ed il divertimento di allora possa riemergere oggi nonostante i soldi, le certificazioni, gli stati, e le guerre.
+GEO:42.5816338;14.0901461
+LOCATION: FreeKevin
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Marcello Dal Degan, Raffaello Parisi:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T160000Z
+DTEND:20240913T163000Z
+SUMMARY:External Attack Surface Management e Cyber Threat Intelligence: Proteggere il Perimetro Digitale
+DESCRIPTION: In un mondo sempre più connesso, la protezione del perimetro digitale è cruciale per la sicurezza delle organizzazioni. Questo talk approfondisce l'importanza della gestione della superficie di attacco esterna (EASM) e dell'intelligence sulle minacce informatiche (CTI) per monitorare e difendere le risorse digitali esposte. Analizzeremo come una combinazione efficace di questi approcci possa aiutare le organizzazioni a rilevare, comprendere e mitigare le minacce informatiche, garantendo una difesa robusta contro i cyber-attacchi in continua evoluzione.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Stefano Biotto (sgrum0x):MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T151500Z
+DTEND:20240913T160000Z
+SUMMARY:XSS + SIDES
+DESCRIPTION: Questa presentazione vi guiderà attraverso l'analisi di una vulnerabilità XSS (Cross-Site Scripting) scoperta durante le attività di secure code review. Il nostro viaggio inizierà con una spiegazione chiara di cosa sia un XSS, una delle vulnerabilità più comuni ma anche più pericolose nel panorama della sicurezza web. Discuteremo le diverse tipologie di XSS, come gli attacchi riflessi e persistenti, e capiremo perché è fondamentale riconoscerli e prevenirli.\n    Una volta stabilite le basi, ci addentreremo nel codice dell'applicazione. Vedremo insieme come un input dell'utente, non adeguatamente filtrato o validato, possa essere sfruttato per iniettare codice malevolo. Questa parte della presentazione sarà molto pratica, con esempi che illustrano come la vulnerabilità sia emersa e quali sono state le sue conseguenze. Analizzeremo il codice riga per riga, identificando i punti critici e discutendo le tecniche per mitigare tali rischi.\n    Dopo aver compreso la vulnerabilità XSS e il codice che l'ha resa possibile, ci sposteremo su un altro elemento chiave dell'applicazione: OAuth. Esploreremo insieme come funziona questo protocollo di autorizzazione, uno standard molto utilizzato per gestire l'accesso sicuro alle risorse degli utenti senza esporre le loro credenziali.\n    Tornando al codice, saranno mostrati alcuni tentativi pratici di exploiting della vulnerabilità XSS, compresi i tentativi falliti e un attacco riuscito. Questo permetterà di vedere come si svolge il processo di scoperta e sfruttamento di una vulnerabilità, offrendo spunti su come prevenire o mitigare attacchi simili nelle vostre applicazioni.\n    Infine, concluderemo la presentazione con un'analisi di una particolarità del backend PHP dell'applicazione: una vulnerabilità nota come Relative Path Overwrite (RPO). Anche se meno comune, questa vulnerabilità può rappresentare un rischio significativo se non viene gestita correttamente. Discuteremo come anche configurazioni in apparenza innocue possano esporre le applicazioni a rischi imprevisti, e vedremo quali accorgimenti adottare per prevenire tali problemi.\n    Questa presentazione vi offrirà una panoramica completa delle sfide che si possono incontrare nella sicurezza web, mostrandovi come affrontarle con un mix di teoria e pratica basata su casi reali.\n\n\n In questa presentazione, esploreremo una vulnerabilità XSS (Cross-Site Scripting) scoperta durante l'analisi, a seguito di secure code review pre rilascio, di un'applicazione web interna.\n    Partiremo dalle basi, spiegando cosa sia un XSS, come funziona e quali rischi comporta. Successivamente, analizzeremo il codice dell'applicazione, evidenziando come un input non adeguatamente controllato possa aprire le porte a un attacco. Dopo aver compreso la vulnerabilità, ci sposteremo su OAuth, il sistema di autenticazione utilizzato dall'applicazione, per capire come questa tecnologia interagisca con le problematiche di sicurezza. Infine, torneremo al codice per esaminare un exploit riuscito e concluderemo con una curiosa vulnerabilità nel backend PHP.\n    Questa presentazione offre un mix di teoria e pratica, perfetto per chi vuole approfondire le sfide della sicurezza web.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Marco d'Itri:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T151500Z
+DTEND:20240913T160000Z
+SUMMARY:La censura di Internet in Italia e nel mondo
+DESCRIPTION: Marco analizzerà in modo sistematico la storia e lo stato della censura di Internet in Italia e confronterà la situazione con quella di altri paesi. Saranno brevemente discussi i principali meccanismi che permettono di aggirare i sistemi di censura della rete.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46983
+SEQUENCE: 0
+ORGANIZER;CN=Stem@it:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T150000Z
+DTEND:20240913T160000Z
+SUMMARY:Stampa e Modellazione 3D
+DESCRIPTION: Cosa si farà:\n - Mostra e Prova: Filamento Riciclato in PET per Stampa 3D. Scopri come le bottiglie di PET possono essere trasformate in filamento per stampanti 3D. Provalo tu stesso e osserva la magia del riciclo in azione.\n - Laboratori di Design 3D con Tinkercad. Impara le basi della modellazione 3D con Tinkercad. Crea i tuoi design e vedi come prendono vita attraverso la stampa 3D.\n - Progetto Architettonico: Cupola Geodetica. Partecipa a un progetto architettonico per costruire una cupola geodetica. Comprendi i principi dell'architettura e dell'ingegneria in modo divertente e interattivo.
+GEO:42.5816338;14.0901461
+LOCATION: MOKids
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Alessandro Grassi:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T144500Z
+DTEND:20240913T151500Z
+SUMMARY:Coinvolgere le nuove generazioni, una storia di software, skateboard e gelato al lampone.
+DESCRIPTION: Il libro Ada & Zangemann (pubblicato sotto Creative Commons BY-SA) racconta la storia del famoso inventore Zangemann e della bambina Ada, una smanettona curiosa. Ada sperimenta con hardware e software, e scopre quanto sia cruciale per lei e per gli altri avere il controllo della tecnologia. Il libro scritto da Matthias Kirschner (presidente dell'FSFE) è stato negli ultimi mesi letto a più di 1000 bambini (dai sei anni in su) ed adulti in scuole, biblioteche ed altri eventi. Le letture sono avvenute perlopiù in Germania, ma sono state sperimentate anche in Italia. Vorrei presentarvi il libro e raccontarvi delle attività fatte a scuola, e in generale delle esperienze di lettura.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46937
+SEQUENCE: 0
+ORGANIZER;CN=SecurityCert:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T143000Z
+DTEND:20240913T153000Z
+SUMMARY:Blue Team Threat Emulation Game
+DESCRIPTION: È un gioco cooperativo di simulazione di minacce informatiche in cui i "Difensori" lavorano insieme per scoprire i percorsi di attacco utilizzati per violare il loro ambiente. Combina la struttura di un gioco di carte con il fascino dei classici giochi di ruolo per aiutare le organizzazioni e gli individui a imparare le tattiche, i metodi e gli strumenti utilizzati negli attacchi e nelle difese informatiche. Fornisce un motivo per considerare gli attacchi, discutere le procedure e pianificare soluzioni PRIMA che accadano nel tuo ambiente... il tutto divertendosi!
+GEO:42.5816338;14.0901461
+LOCATION: FreeKevin
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Cristofaro Mune:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T140000Z
+DTEND:20240913T144500Z
+SUMMARY:Evolving Fault Injection: progressi e stato dell'arte.
+DESCRIPTION: La Fault Injection (alias “glitching”) è una tecnica nota per attaccare i dispositivi informatici. Storicamente, è stata utilizzata per aggirare i controlli di sicurezza o per estrarre chiavi crittografiche (ad esempio con la DFA, Differential Fault Analysis). A causa della fisica sottostante e della complessità del sistema, i risultati della Fault Injection sono tipicamente volatili e, in larga misura, imprevedibili. In questo intervento mostreremo come la caratterizzazione di un bersaglio, insieme alla visualizzazione e all'analisi dei dati ottenuti, possa indicare un comportamento emergente a livello statistico, consentendo attacchi più precisi, affidabili e, in ultima analisi, più sofisticati. Eseguiremo una dimostrazione dal vivo, in cui un dispositivo embedded viene caratterizzato e i dati raccolti vengono visualizzati e analizzati, mostrando come la Fault Injection possa effettivamente essere una scienza guidata dai dati, piuttosto che un esercizio alla cieca. Mostreremo inoltre come i dati di caratterizzazione mettano in discussione la convinzione diffusa che “le istruzioni vengono saltate”, producendo risultati che non possono essere spiegati con questo modello di errore. Verrà quindi discusso un diverso modello di errore, la “corruzione delle istruzioni”, con le relative implicazioni. Dimostreremo come sia possibile utilizzare la Fault Injection per ottenere il pieno controllo del Program Counter (PC) su qualsiasi architettura, consentendo l'esecuzione di codice arbitrario, semplicemente controllando i dati trasferiti dal dispositivo. Infine, discuteremo gli ultimi progressi nel campo, che consentono l'esecuzione di codice arbitrario anche senza il controllo dei dati effettivi. (ad esempio, attacchi al secure boot dove il firmware è criptato).
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Aurelio Forese:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T140000Z
+DTEND:20240913T144500Z
+SUMMARY:Kubernetes security fundamentals: scraping your cluster security
+DESCRIPTION: Securing a Kubernetes cluster involves dealing with challenging tasks and several potential intervention area.\n\nOur journey will begin with the analysis of the current Kubernetes security state of art exploring the different options we need to face when operating a cluster.\n\nThen we'll focus on the configuration and use of one of the most well-known solutions: policies engines.\n\nJoin us and enjoy your flight over k8s security landscape!
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Marco Gandolfi:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T133000Z
+DTEND:20240913T140000Z
+SUMMARY:Oltre ATT&CK: una metodologia per valutare e migliorare Detection & Response
+DESCRIPTION: In un panorama di minacce e tecnologie in continua evoluzione, i team SOC affrontano sfide crescenti. Questo talk offre una panoramica dell'evoluzione della detection engineering e dei framework basati su MITRE ATT&CK per la valutazione e il miglioramento delle capacità di Detection & Response, oltre a presentare una metodologia applicabile in ambito enterprise.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Ettore Di Giacinto (mudler):MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T133000Z
+DTEND:20240913T140000Z
+SUMMARY:Trusted boot and Kairos: Honey, I've secure yout boot!
+DESCRIPTION: Parleremo di sicurezza in ambito di Edge computing e di Kairos (kairos.io). Kairos e' un progetto open source, ora parte della CNCF/Linux foundation per utilizzare Kubernetes e Linux in ambienti di edge computing, dove la sicurezza non è mai scontata. Attraverso l'implementazione di tecnologie come Secure Boot, Trusted Boot, TPM e crittografia del disco, Kairos trasforma Linux in un sistema operativo resistente agli attacchi fisici (Evil maid attacks) e ideale per gestire le sfide di ambienti considerati non sicuri. In questo talk vedremo come ci possiamo difendere da attacchi fisici per proteggere la confidenzialita' dei dati in ambienti di edge computing.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46917
+SEQUENCE: 0
+ORGANIZER;CN=Mastro Gippo:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T133000Z
+DTEND:20240913T160000Z
+SUMMARY:Badge Soldering Lab
+DESCRIPTION: 
+GEO:42.5816338;14.0901461
+LOCATION: FreeKevin
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Michele Dallachiesa:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T124500Z
+DTEND:20240913T133000Z
+SUMMARY:Proof of Inference: Verifying the Integrity of Machine Learning Model Predictions
+DESCRIPTION: Questo intervento introduce un nuovo meccanismo per verificare l'integrità delle previsioni dei modelli di apprendimento automatico. Ispirato ai concetti di proof-of-computation e computation-pipeline, consente agli endpoint di inferenza di generare prove crittografiche che dimostrino che un modello ha realmente prodotto previsioni specifiche.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Mohammadreza Ashouri:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T124500Z
+DTEND:20240913T133000Z
+SUMMARY:Food Supply Chain Security: Protecting Against Digital Threats
+DESCRIPTION: Nel nostro mondo interconnesso, la sicurezza della catena di approvvigionamento alimentare è diventata una preoccupazione cruciale. Questa presentazione approfondisce le varie minacce digitali che possono interrompere il viaggio del cibo dalla fattoria alla tavola. Esploreremo esempi reali di cyberattacchi che hanno preso di mira la produzione, la lavorazione e la distribuzione degli alimenti, evidenziando le vulnerabilità in ogni fase. I partecipanti impareranno a conoscere le ultime tecnologie e le migliori pratiche per proteggersi da queste minacce. Discuteremo di come l'integrazione delle misure di cybersecurity in ogni aspetto della catena di approvvigionamento possa prevenire potenziali crisi, garantendo la sicurezza e l'integrità delle nostre forniture alimentari. Unitevi a noi per comprendere l'importanza di solide difese digitali per mantenere una catena di approvvigionamento alimentare sicura e resiliente.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Riccardo Degli Espositi 'partywave', Christopher Bianchi 'calfcrusher':MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T121500Z
+DTEND:20240913T124500Z
+SUMMARY:Curious Minds, Converging Interests
+DESCRIPTION: Il talk prende spunto dal libro di Eric Hobsbawm 'Il secolo breve'.\n\nNonostante sia trascorso solamente poco più di mezzo secolo dalla nascita della cultura Hacking, il mondo della security e dell'underground sono radicalmente cambiati.\n\nForse ci si sta dimenticando da dove si viene, che il cambiamento é stato fatto con il fuoco e con dei valori solidi, rischiando di non avere chiaro nemmeno dove si vuole andare. Il talk vuole essere un punto d'incontro tra le diverse generazioni attraverso uno degli attacchi informatici più famosi e romanzati di tutti i tempi: l'iconico attacco informatico compiuto da Mitnick ai danni di Shimomura nel giorno di Natale, e di come approfondimento, curiosità, passione e la conoscenza di ciò che si fa, ha fatto e farà sempre la differenza.  Ci chiediamo se questa distinzione è vera ancora oggi nel mondo e nella realtà italiana, ricordando che dopotutto stiamo sulle spalle dei giganti.\n\n\nOggi molti Hackers degli anni 90 sono diventati esperti di sicurezza informatica e sono pagati profumatamente da varie aziende per proteggere i propri sistemi informatici. Uno dei più celebri è stato certamente Kevin Mitnick: attraverso l'iconico attacco durante il Natale del 1994 ai danni di Shimomura, vedremo come curiosità, passione e conoscenza hanno plasmato il passato e influenzeranno il futuro.\n\nRipercorrendo questo epocale scontro si vuole ricercare insieme e presentare la scintilla originale che tutto muove.
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+BEGIN:VEVENT
+UID:46939
+SEQUENCE: 0
+ORGANIZER;CN=Alessandro Farina:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T121500Z
+DTEND:20240913T124500Z
+SUMMARY:Open Source Digital Forensic
+DESCRIPTION: Importanza degli strumenti open-source in ambito forense: L'utilizzo di strumenti open-source o free software, meglio se con licenza GPLv3, in cui il codice sorgente è accessibile per l'ispezione, dovrebbe essere fondamentale per l’acquisizione, l’analisi ed in generale per le investigazioni. Gli strumenti open-source offrono trasparenza, consentendo agli esperti di verificare l'integrità e la sicurezza del codice. Consentono di ispezionare il codice con l’obiettivo di garantire l’assenza di vulnerabilità o di backdoor che potrebbero compromettere l'indagine. Inoltre, gli strumenti open-source possono essere personalizzati per soddisfare specifiche esigenze investigative e possono essere sottoposti a peer-review, migliorando la loro affidabilità e attendibilità nelle applicazioni forensi. Per moltissime attività di indagine e per numerosissimi casi, gli esperti sono purtroppo obbligati ad utilizzare strumenti completamente chiusi, dal punto di vista software, basati su tecnologie proprietarie che è impossibile ispezionare, gli unici test che è possibile fare con questi strumenti, sono quelli di verifica incrociata con altri strumenti (sempre closed) e/o di raffronto con l’analisi di device predisposti appositamente come “campioni”. Questa modalità di lavoro potremmo denominarla “black box” forensic.
+GEO:42.5816338;14.0901461
+LOCATION: MOV
+END:VEVENT
+BEGIN:VEVENT
+UID:46938
+SEQUENCE: 0
+ORGANIZER;CN=Metro Olografix:MAILTO:info@olografix.org
+DTSTAMP:20240912T140000Z
+DTSTART:20240913T100000Z
+DTEND:20240913T110000Z
+SUMMARY:Opening Keynote
+DESCRIPTION: 
+GEO:42.5816338;14.0901461
+LOCATION: XOR
+END:VEVENT
+END:VCALENDAR
+
